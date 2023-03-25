@@ -1,5 +1,5 @@
 const axios = require('axios');
-const puppeteer = require("puppeteer-core");
+const puppeteer = require("puppeteer");
 const { google } = require('googleapis');
 const credentials = require('./credentials.json');
 const sheetId = '1112wh9MtfOEpj0nBBhNIt_UZ4W5DfVB24FcV6yx4jP8';
